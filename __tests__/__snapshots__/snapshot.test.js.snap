@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Home 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="css-1hjf4jg-MuiStack-root"
+    >
+      <div
+        class="MuiBox-root css-16wg4x5"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4 css-16xl8x5-MuiTypography-root"
+          data-testid="heading-h4"
+        >
+          AR Conversion
+        </h4>
+        <p
+          class="MuiTypography-root MuiTypography-h6 MuiTypography-paragraph css-12ssu3m-MuiTypography-root"
+        >
+          Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.
+        </p>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical MuiDivider-flexItem css-2lut5v-MuiDivider-root"
+        data-testid="top-stack"
+      />
+      <div
+        class="MuiBox-root css-1s9v40x"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-142csng-MuiPaper-root"
+        >
+          <h5
+            class="MuiTypography-root MuiTypography-h5 css-zp6h2v-MuiTypography-root"
+            data-testid="heading-h5"
+          >
+             
+            Product Overview
+          </h5>
+          <div
+            class="css-gk9tmq-MuiStack-root"
+          >
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-c5lcgz-MuiPaper-root-MuiCard-root"
+            >
+              <img
+                alt="Lizard"
+                class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+                height="140"
+                src="/static/images/cards/contemplative-reptile.jpg"
+              />
+              <div
+                class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                >
+                  Lizard
+                </div>
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Lizard
+                   are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica
+                </p>
+              </div>
+              <div
+                class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+              >
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Share
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Learn More
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-c5lcgz-MuiPaper-root-MuiCard-root"
+            >
+              <img
+                alt="Cat"
+                class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+                height="140"
+                src="/static/images/cards/contemplative-reptile.jpg"
+              />
+              <div
+                class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                >
+                  Cat
+                </div>
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Cat
+                   are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica
+                </p>
+              </div>
+              <div
+                class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+              >
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Share
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Learn More
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-c5lcgz-MuiPaper-root-MuiCard-root"
+            >
+              <img
+                alt="Tiger"
+                class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+                height="140"
+                src="/static/images/cards/contemplative-reptile.jpg"
+              />
+              <div
+                class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                >
+                  Tiger
+                </div>
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Tiger
+                   are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica
+                </p>
+              </div>
+              <div
+                class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+              >
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Share
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Learn More
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-c5lcgz-MuiPaper-root-MuiCard-root"
+            >
+              <img
+                alt="Deer"
+                class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+                height="140"
+                src="/static/images/cards/contemplative-reptile.jpg"
+              />
+              <div
+                class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                >
+                  Deer
+                </div>
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+                >
+                  Deer
+                   are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica
+                </p>
+              </div>
+              <div
+                class="MuiCardActions-root MuiCardActions-spacing css-1vbr7to-MuiCardActions-root"
+              >
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Share
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root  css-19qyx99-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Learn More
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+           
+        </div>
+         
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;

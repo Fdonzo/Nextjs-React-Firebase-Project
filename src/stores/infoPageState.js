@@ -1,0 +1,25 @@
+import { createSlice } from "@reduxjs/toolkit";
+
+const initialState = {
+  isInformationPage: false,
+};
+
+export const infoPageStateSlice = createSlice({
+  name: "infoPageState",
+  initialState,
+  reducers: {
+    setIsInformationPage: (state) => {
+      // Redux Toolkit allows us to write "mutating" logic in reducers. It
+      // doesn't actually mutate the state because it uses the Immer library,
+      // which detects changes to a "draft state" and produces a brand new
+      // immutable state based off those changes
+
+      state.isInformationPage = !state.isInformationPage;
+    },
+  },
+});
+
+// Action creators are generated for each case reducer function
+export const { setIsInformationPage } = infoPageStateSlice.actions;
+
+export default infoPageStateSlice.reducer;
